@@ -1,7 +1,31 @@
-2024-07-22 06:25:04 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2024-07-22 06:25:07 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
-2024-07-22 06:25:08 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Arcade Paradise', 'url': 'https://store.epicgames.com/en-US/p/arcade-paradise'}
-2024-07-22 06:25:08 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Maid of Sker', 'url': 'https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e'}
-2024-07-22 06:25:12 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/arcade-paradise'}
-2024-07-22 06:25:47 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e'}
-2024-07-22 06:26:00 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2024-07-23 06:25:57 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2024-07-23 06:26:05 | INFO    | __main__:claim_epic_games:97 | Try to flush cookie - {'task': 'claim_epic_games'}
+2024-07-23 06:26:08 | INFO    | epic_games.agent:_login:237 | login-with-email - {'url': 'https://www.epicgames.com/id/login?lang=en-US&noHostRedirect=true&redirectUrl=https://store.epicgames.com/en-US/free-games'}
+2024-07-23 06:26:38 | WARNING    | epic_games.agent:authorize:266 | 执行超时 - {'task': 'authorize', 'retry': 0}
+2024-07-23 06:26:41 | INFO    | epic_games.agent:_login:237 | login-with-email - {'url': 'https://www.epicgames.com/id/login?lang=en-US&noHostRedirect=true&redirectUrl=https://store.epicgames.com/en-US/free-games'}
+2024-07-23 06:27:11 | WARNING    | epic_games.agent:authorize:266 | 执行超时 - {'task': 'authorize', 'retry': 1}
+2024-07-23 06:27:13 | INFO    | epic_games.agent:_login:237 | login-with-email - {'url': 'https://www.epicgames.com/id/login?lang=en-US&noHostRedirect=true&redirectUrl=https://store.epicgames.com/en-US/free-games'}
+2024-07-23 06:27:43 | WARNING    | epic_games.agent:authorize:266 | 执行超时 - {'task': 'authorize', 'retry': 2}
+2024-07-23 06:27:43 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3646), thread 'MainThread' (140518281223040): - {}
+Traceback (most recent call last):
+  File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 162, in <module>
+    asyncio.run(run())
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+> File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 158, in run
+    await agent.stash()
+  File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 151, in stash
+    await self.claim_epic_games(context)
+  File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 98, in claim_epic_games
+    if await epic.authorize(page):
+  File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/epic_games/agent.py", line 269, in authorize
+    raise RuntimeError(f"Failed to flush token - agent={self.__class__.__name__}")
+RuntimeError: Failed to flush token - agent=EpicGames
