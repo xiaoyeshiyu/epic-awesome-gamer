@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1075.6274" y1="3300.4883" x2="-1070.3701" y2="3300.4883" gradientTransform="matrix(-0.7071 0.7071 -0.5032 -0.5032 955.7309 2473.1707)">
+	<stop  offset="0" style="stop-color:#748894"/>
+	<stop  offset="0.316" style="stop-color:#728592"/>
+	<stop  offset="0.5207" style="stop-color:#6A7D8A"/>
+	<stop  offset="0.6938" style="stop-color:#5C6E7C"/>
+	<stop  offset="0.8483" style="stop-color:#495969"/>
+	<stop  offset="0.9908" style="stop-color:#303E51"/>
+	<stop  offset="1" style="stop-color:#2E3C4F"/>
+	<a:midPointStop  offset="0" style="stop-color:#748894"/>
+	<a:midPointStop  offset="0.7879" style="stop-color:#748894"/>
+	<a:midPointStop  offset="1" style="stop-color:#2E3C4F"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M45.572,49.294L57.23,60.95c1.025,1.019,4.739-2.69,3.716-3.716L49.289,45.576L45.572,49.294z"/>
+<path opacity="0.5" fill="#0A0517" d="M57.23,60.95c0.213,0.212,0.543,0.217,0.926,0.087l0.924-5.664l-1.518-1.524l-1.045,6.386
+	L57.23,60.95z"/>
+<polygon opacity="0.5" fill="#0A0517" points="55.336,51.626 53.818,50.105 52.768,56.488 54.294,58.011 "/>
+<path opacity="0.5" fill="#0A0517" d="M55.369,59.087l5.667-0.929c0.128-0.379,0.122-0.709-0.09-0.924l-0.716-0.714l-6.385,1.042
+	L55.369,59.087z"/>
+<polygon opacity="0.5" fill="#0A0517" points="58.008,54.297 56.486,52.776 50.1,53.819 51.623,55.341 "/>
+<polygon opacity="0.5" fill="#0A0517" points="51.82,48.11 50.297,46.589 49.253,52.971 50.778,54.494 "/>
+<polygon opacity="0.5" fill="#0A0517" points="54.49,50.778 52.969,49.26 46.584,50.303 48.109,51.825 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="591.5996" y1="64.2773" x2="599.2061" y2="64.2773" gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -406.7419 435.2822)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M61.999,56.625c0,0-0.262,2.956-1.341,4.035c-1.08,1.076-4.041,1.34-4.041,1.34
+	s1.084-2.135,2.163-3.215C59.86,57.704,61.999,56.625,61.999,56.625z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="47.9736" y1="-3.3452" x2="94.9277" y2="-3.3452" gradientTransform="matrix(1 0 0 1 -45.9727 27.5986)">
+	<stop  offset="0" style="stop-color:#B3C2C6"/>
+	<stop  offset="1" style="stop-color:#D2DBE0"/>
+	<a:midPointStop  offset="0" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0.4848" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="1" style="stop-color:#D2DBE0"/>
+</linearGradient>
+<polygon fill="url(#SVGID_3_)" points="48.955,42.682 46.51,46.507 2.001,2 9.083,4.334 "/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="47.9736" y1="-2.1191" x2="92.4824" y2="-2.1191" gradientTransform="matrix(1 0 0 1 -45.9727 27.5986)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<polygon fill="url(#SVGID_4_)" points="42.678,48.959 46.51,46.507 2.001,2 4.332,9.086 "/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="87.2773" y1="18.7168" x2="97.2949" y2="18.7168" gradientTransform="matrix(1 0 0 1 -45.9727 27.5986)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<polygon fill="url(#SVGID_5_)" points="41.305,49.951 42.674,51.324 51.322,42.68 49.947,41.307 "/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="92.9688" y1="19.4028" x2="94.7855" y2="21.2196" gradientTransform="matrix(1 0 0 1 -45.9727 27.5986)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<path fill="url(#SVGID_6_)" d="M51.33,42.673l-4.331,4.33l-4.332,4.327c-2.015,2.014-2.109,4.34-4.723,6.95
+	c2.978-0.152,7.04-6.529,10.425-9.909c3.381-3.38,9.756-7.446,9.907-10.42C55.664,40.563,53.342,40.653,51.33,42.673z"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-1380.2861" y1="2872.9736" x2="-1375.0298" y2="2872.9736" gradientTransform="matrix(0.7071 0.7071 0.5032 -0.5032 -461.1821 2473.4695)">
+	<stop  offset="0" style="stop-color:#748894"/>
+	<stop  offset="0.316" style="stop-color:#728592"/>
+	<stop  offset="0.5207" style="stop-color:#6A7D8A"/>
+	<stop  offset="0.6938" style="stop-color:#5C6E7C"/>
+	<stop  offset="0.8483" style="stop-color:#495969"/>
+	<stop  offset="0.9908" style="stop-color:#303E51"/>
+	<stop  offset="1" style="stop-color:#2E3C4F"/>
+	<a:midPointStop  offset="0" style="stop-color:#748894"/>
+	<a:midPointStop  offset="0.7879" style="stop-color:#748894"/>
+	<a:midPointStop  offset="1" style="stop-color:#2E3C4F"/>
+</linearGradient>
+<path fill="url(#SVGID_7_)" d="M18.426,49.294L6.769,60.95c-1.024,1.02-4.738-2.69-3.716-3.716L14.71,45.576L18.426,49.294z"/>
+<path opacity="0.5" fill="#0A0517" d="M6.769,60.95c-0.211,0.212-0.543,0.217-0.926,0.087l-0.924-5.664l1.519-1.524l1.044,6.386
+	L6.769,60.95z"/>
+<polygon opacity="0.5" fill="#0A0517" points="8.665,51.627 10.182,50.105 11.232,56.488 9.706,58.011 "/>
+<path opacity="0.5" fill="#0A0517" d="M8.631,59.087l-5.667-0.928c-0.13-0.379-0.124-0.71,0.088-0.925l0.718-0.714l6.383,1.043
+	L8.631,59.087z"/>
+<polygon opacity="0.5" fill="#0A0517" points="5.993,54.297 7.515,52.776 13.9,53.819 12.377,55.341 "/>
+<polygon opacity="0.5" fill="#0A0517" points="12.181,48.111 13.702,46.589 14.747,52.971 13.223,54.494 "/>
+<polygon opacity="0.5" fill="#0A0517" points="9.511,50.778 11.033,49.26 17.416,50.303 15.891,51.825 "/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="896.2598" y1="368.5137" x2="903.8662" y2="368.5137" gradientTransform="matrix(-0.7071 -0.7071 -0.7071 0.7071 901.2926 435.5811)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<path fill="url(#SVGID_8_)" d="M2,56.625c0,0,0.264,2.956,1.342,4.035C4.421,61.736,7.382,62,7.382,62s-1.085-2.135-2.162-3.215
+	C4.14,57.703,2,56.625,2,56.625z"/>
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="478.5234" y1="-3.644" x2="525.4785" y2="-3.644" gradientTransform="matrix(-1 0 0 1 540.5234 27.8975)">
+	<stop  offset="0" style="stop-color:#B3C2C6"/>
+	<stop  offset="1" style="stop-color:#D2DBE0"/>
+	<a:midPointStop  offset="0" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0.4848" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="1" style="stop-color:#D2DBE0"/>
+</linearGradient>
+<polygon fill="url(#SVGID_9_)" points="15.045,42.682 17.49,46.507 62,2 54.916,4.334 "/>
+<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="478.5234" y1="-2.418" x2="523.0332" y2="-2.418" gradientTransform="matrix(-1 0 0 1 540.5234 27.8975)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<polygon fill="url(#SVGID_10_)" points="21.322,48.959 17.49,46.507 62,2 59.667,9.086 "/>
+<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="517.8291" y1="18.418" x2="527.8447" y2="18.418" gradientTransform="matrix(-1 0 0 1 540.5234 27.8975)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<polygon fill="url(#SVGID_11_)" points="22.694,49.951 21.326,51.324 12.679,42.68 14.053,41.307 "/>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="523.5195" y1="19.104" x2="525.3363" y2="20.9208" gradientTransform="matrix(-1 0 0 1 540.5234 27.8975)">
+	<stop  offset="0" style="stop-color:#717B80"/>
+	<stop  offset="0.229" style="stop-color:#889499"/>
+	<stop  offset="0.5213" style="stop-color:#A0ADB2"/>
+	<stop  offset="0.7869" style="stop-color:#AEBDC1"/>
+	<stop  offset="1" style="stop-color:#B3C2C6"/>
+	<a:midPointStop  offset="0" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="0.3394" style="stop-color:#717B80"/>
+	<a:midPointStop  offset="1" style="stop-color:#B3C2C6"/>
+</linearGradient>
+<path fill="url(#SVGID_12_)" d="M12.671,42.673l4.331,4.33l4.331,4.327c2.014,2.014,2.108,4.34,4.722,6.95
+	c-2.978-0.152-7.04-6.529-10.424-9.908c-3.38-3.381-9.756-7.447-9.908-10.421C8.336,40.563,10.657,40.654,12.671,42.673z"/>
+</svg>
+Úa€Zò      fÂtþfÂtþG:?fË¯~   e    O^partitionKey=%28https%2Cepicgames.com%29,:https://cdn2.epicgames.com/static/fonts/joypixel/2694.svg strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEAOQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAbwMIIG7DCCBdSgAwIBAgIQAojCL3HOL/yJ7TLf0H304zANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBEaWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yNDA2MjMwMDAwMDBaFw0yNTA2MjUyMzU5NTlaMHAxCzAJBgNVBAYTAlVTMRcwFQYDVQQIEw5Ob3J0aCBDYXJvbGluYTENMAsGA1UEBxMEQ2FyeTEZMBcGA1UEChMQRXBpYyBHYW1lcywgSW5jLjEeMBwGA1UEAxMVY2RuMS51bnJlYWxlbmdpbmUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKx2t3Y+DEdWF5+e5S54YI+XAcw63xPvNxdUiD2MmmqJWey6n7H5rYhJ6NVmrYr9FqUTIS0fiSCNXvcY0JwqHIaOCBGwwggRoMB8GA1UdIwQYMBaAFLdrouqoqoSMeeq02g+YssWVdrn0MB0GA1UdDgQWBBT2Zvscb+v4oIjeI5l1MwTBtOCSmDCCARQGA1UdEQSCAQswggEHghVjZG4xLnVucmVhbGVuZ2luZS5jb22CIHN0YXRpYy1hc3NldHMtcHJvZC5lcGljZ2FtZXMuY29tgiVzdGF0aWMtYXNzZXRzLXByb2QtZGVzdC5lcGljZ2FtZXMuY29tghVjZG4zLnVucmVhbGVuZ2luZS5jb22CFWNkbjIudW5yZWFsZW5naW5lLmNvbYISY2RuMi5lcGljZ2FtZXMuY29tghpjZG4yLWRlc3QudW5yZWFsZW5naW5lLmNvbYISY2RuMS5lcGljZ2FtZXMuY29tghpjZG4xLWRlc3QudW5yZWFsZW5naW5lLmNvbYIXY2RuMS1kZXN0LmVwaWNnYW1lcy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00LmNybDBAoD6gPIY6aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00LmNybDB/BggrBgEFBQcBAQRzMHEwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBJBggrBgEFBQcwAoY9aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZBCbk/iAAAEAwBGMEQCIAYmTNE9VC4dZ9G9I6JU/8NDjE9q3IJmOKOPfgHCiq1nAiBHOgyehd4P5mjhLk9c2RYZhtNlixKRNU5N0XRln6yUEwB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkEJuUBgAAAQDAEcwRQIhAISawGC0GGMO/rwQD4rdr/0bBpf79hVe6hop38HVX3L3AiA3INfNQT3tlCRxLEVeI1w+Ise3dseEoMOJd+Wd6AYDpgB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkEJuUEQAAAQDAEYwRAIgX3ph+fvL4OL29ozjxYYEEKSh4l/y5SAKxkfvIpHuwCwCIByNhdLZP/GhCLjyzNiHl7oo7fMM3HLGoSNJoLHJWEiDMA0GCSqGSIb3DQEBCwUAA4IBAQBhAvvxyo4f/iyAfvLFnzMal32HC1SpFdoyn4j6NW/ETk2+hbZZUQua08ZeHiypEKho3WvfSC7Dli3eqtpZq3yfanZTwwVmwtnYGEPoxQPgIgYnLe4fyavST29ZdGvePu1QwTOd5jNkivHFTfAteTnSd63dF4IWkk02yuVb29m+bNb7EAW5+Gc++Yw71z0Z5pPlTFqFrOWeRgTt7gVt1094LHaSfMVtsiwWTOwHfiyDPsRfFCaVHLBWBzr+O13NKmJazSvsM8i6YAPEYeHJWsTRduX/65wamXX4b687SDtZA4SSDfyhdzDAUix6fJY4/2NWTxjJ1a9TgDd7BDMSQeLnEwIABAAAAAAAAQEAAAAAAAAGeDI1NTE5AAAAEUVDRFNBLVAyNTYtU0hBMjU2AANmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAbwMIIG7DCCBdSgAwIBAgIQAojCL3HOL/yJ7TLf0H304zANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBEaWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yNDA2MjMwMDAwMDBaFw0yNTA2MjUyMzU5NTlaMHAxCzAJBgNVBAYTAlVTMRcwFQYDVQQIEw5Ob3J0aCBDYXJvbGluYTENMAsGA1UEBxMEQ2FyeTEZMBcGA1UEChMQRXBpYyBHYW1lcywgSW5jLjEeMBwGA1UEAxMVY2RuMS51bnJlYWxlbmdpbmUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKx2t3Y+DEdWF5+e5S54YI+XAcw63xPvNxdUiD2MmmqJWey6n7H5rYhJ6NVmrYr9FqUTIS0fiSCNXvcY0JwqHIaOCBGwwggRoMB8GA1UdIwQYMBaAFLdrouqoqoSMeeq02g+YssWVdrn0MB0GA1UdDgQWBBT2Zvscb+v4oIjeI5l1MwTBtOCSmDCCARQGA1UdEQSCAQswggEHghVjZG4xLnVucmVhbGVuZ2luZS5jb22CIHN0YXRpYy1hc3NldHMtcHJvZC5lcGljZ2FtZXMuY29tgiVzdGF0aWMtYXNzZXRzLXByb2QtZGVzdC5lcGljZ2FtZXMuY29tghVjZG4zLnVucmVhbGVuZ2luZS5jb22CFWNkbjIudW5yZWFsZW5naW5lLmNvbYISY2RuMi5lcGljZ2FtZXMuY29tghpjZG4yLWRlc3QudW5yZWFsZW5naW5lLmNvbYISY2RuMS5lcGljZ2FtZXMuY29tghpjZG4xLWRlc3QudW5yZWFsZW5naW5lLmNvbYIXY2RuMS1kZXN0LmVwaWNnYW1lcy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00LmNybDBAoD6gPIY6aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00LmNybDB/BggrBgEFBQcBAQRzMHEwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBJBggrBgEFBQcwAoY9aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZBCbk/iAAAEAwBGMEQCIAYmTNE9VC4dZ9G9I6JU/8NDjE9q3IJmOKOPfgHCiq1nAiBHOgyehd4P5mjhLk9c2RYZhtNlixKRNU5N0XRln6yUEwB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkEJuUBgAAAQDAEcwRQIhAISawGC0GGMO/rwQD4rdr/0bBpf79hVe6hop38HVX3L3AiA3INfNQT3tlCRxLEVeI1w+Ise3dseEoMOJd+Wd6AYDpgB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkEJuUEQAAAQDAEYwRAIgX3ph+fvL4OL29ozjxYYEEKSh4l/y5SAKxkfvIpHuwCwCIByNhdLZP/GhCLjyzNiHl7oo7fMM3HLGoSNJoLHJWEiDMA0GCSqGSIb3DQEBCwUAA4IBAQBhAvvxyo4f/iyAfvLFnzMal32HC1SpFdoyn4j6NW/ETk2+hbZZUQua08ZeHiypEKho3WvfSC7Dli3eqtpZq3yfanZTwwVmwtnYGEPoxQPgIgYnLe4fyavST29ZdGvePu1QwTOd5jNkivHFTfAteTnSd63dF4IWkk02yuVb29m+bNb7EAW5+Gc++Yw71z0Z5pPlTFqFrOWeRgTt7gVt1094LHaSfMVtsiwWTOwHfiyDPsRfFCaVHLBWBzr+O13NKmJazSvsM8i6YAPEYeHJWsTRduX/65wamXX4b687SDtZA4SSDfyhdzDAUix6fJY4/2NWTxjJ1a9TgDd7BDMSQeLnZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAEwjCCBL4wggOmoAMCAQICEAbY2QTVWENG9oovp1QifsQwDQYJKoZIhvcNAQELBQAwYTELMAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEZMBcGA1UECxMQd3d3LmRpZ2ljZXJ0LmNvbTEgMB4GA1UEAxMXRGlnaUNlcnQgR2xvYmFsIFJvb3QgQ0EwHhcNMjEwNDE0MDAwMDAwWhcNMzEwNDEzMjM1OTU5WjBPMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBEaWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMFLs2VHcLzdT1jb7Jztw2blHzETVK1KZkYfLArsZAflLtzcuQog7d/jxNCemql6HYKI5RFW2x6fWMJR5yw0DS7SkuFWy/F5X7O7h8olA3uaUkFmEGBPVxNJ8Og3Z4Pf59NLZ0wiUabfDpkQ7VdRdCbifcfKYi4TG38jiCVTb8E0WACLhP/4vqdYSSJ7lq2iiJsVvKB83+lRqNWw7TfiNrSCS2K1SZrsx2fW4z7149YSXkTxv3FCfViEA4CxgQH6+coyu7SOJ4cnxSt01KjWl97DZPnKzlOiVrx4F45JAymu+0lPpBW5zvJcGVdta3mnK6InIBO10D1A0yEwB5PqmfUCAwEAAaOCAYIwggF+MBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFLdrouqoqoSMeeq02g+YssWVdrn0MB8GA1UdIwQYMBaAFAPeUDVW0Uy7ZvCj4hsbw5eyPdFVMA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbFJvb3RDQS5jcnQwQgYDVR0fBDswOTA3oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsUm9vdENBLmNybDA9BgNVHSAENjA0MAsGCWCGSAGG/WwCATAHBgVngQwBATAIBgZngQwBAgEwCAYGZ4EMAQICMAgGBmeBDAECAzANBgkqhkiG9w0BAQsFAAOCAQEAgDLOXgvdbloNCq/h1oTLwI76hXDt2l2zDPcrdUD+hQr68zF4t3BLGolYuoC982sd6X7PC7pYnFnUkNP9bP3QmG23cYJbz20LWgnQe97EQ9gqpN6eQSZfu4+Zy92u4ahvn4f+dLcfGyCrsU/G9WddXZs86f9p92Fs1tnz/TbGqwOIdtJLLnWG4/zYVX0mwhF33z4Ctnzzq3t6hjZvuPfYk3HPht9zMPp7q+0qWchChDsRFxpS88kOFH2iW3JnunHtV0dmxbgCSmU0XovQKjwgnFGZTOdSnvdrESsNkn4d6IrrNhZDh+oqY791P+vexAO7Cjz3MO/rr0z8izYQcz7zpGYKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAAA7MwggOvMIICl6ADAgECAhAIO+BWkEJGsaF1aslZkcdKMA0GCSqGSIb3DQEBBQUAMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IENBMB4XDTA2MTExMDAwMDAwMFoXDTMxMTExMDAwMDAwMFowYTELMAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEZMBcGA1UECxMQd3d3LmRpZ2ljZXJ0LmNvbTEgMB4GA1UEAxMXRGlnaUNlcnQgR2xvYmFsIFJvb3QgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiO+ERct6opNOjV6pQoo8Ld5DJoqXuEs6WWwEJIMwBk6dOMLdT90PEaQBXneKNIt2HBkAAgQnOzhuDv9/NO3FG4tZmxwWzdicWj3ueHpV97rdIowja1q96DDkGZX9KXR+8F/irvu4o13R/eniZWYVoblwjMku/TsDoWm3jcL93EL/8AfaF2ahEEFgyqXUY1dGivkfiJ2r0mjP4SQhgi9RftDqEv6GqSkx9Ps9PX2x2XqBLN5Ge3CLmbc4UGo5qy/7NsxRkF8dbKZ4yv/Lu+tMLQtSrt0Ey2gzU7/iB1buNWD+1G+hJKKJw2jEE3feyFvJMCk4HqO1KPV61f6OQw68nAgMBAAGjYzBhMA4GA1UdDwEB/wQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBQD3lA1VtFMu2bwo+IbG8OXsj3RVTAfBgNVHSMEGDAWgBQD3lA1VtFMu2bwo+IbG8OXsj3RVTANBgkqhkiG9w0BAQUFAAOCAQEAy5w3qkgTEgr63UScT1Kw9N+uBPV5eQijJBj8SyuEwC251cf+9MEfWMu4bZx6dOeYKasRteNwoKHNTIiZk4yRcOKrDxy+k6n/Y9XkB2DTo7+dWwnx1Y7jU/SOY/o/p9u0Zt9iZtbRbkGN8i216ndKn51Y4itZwEAj7S0ogkU+eVSSJpjggEioN+/w1nlgFt6s6A7NbqxEFzgvSdrhRT4quTZTzzpQBvcu6MRXSWxhIRjVBK14PCw6gGun668VFOnYicG5OGzikWyK/2S5dyVXMMAbJKPh3OnfR3y1tCQIBTDsLb0Lv0W/ULmp8+uYARKtyIjGmDRfjQo8xunVlZVt3gAAAAEAAAACaDIAAQAAAABVdGxzZmxhZ3MweDAwMDAwMDAwOmNkbjIudW5yZWFsZW5naW5lLmNvbTo0NDNecGFydGl0aW9uS2V5PSUyOGh0dHBzJTJDZXBpY2dhbWVzLmNvbSUyOQAA request-method GET response-head HTTP/2 200 
+x-amz-id-2: lbr3Xt0FpvCCjDsrq9znlSabDgo107PkZVi8N+bCAvr01OtWPpPOv/JhjvvfPZeRvLZiZMjuN0I=
+x-amz-request-id: Z4WCWVKAP22Z3MVD
+last-modified: Tue, 29 Mar 2022 22:31:22 GMT
+etag: "2da68873f864aa95d48b85aed62353e6"
+accept-ranges: bytes
+content-type: image/svg+xml
+server: AmazonS3
+content-length: 11439
+date: Sun, 18 Aug 2024 22:26:06 GMT
+access-control-allow-origin: *
+access-control-allow-headers: *
+access-control-allow-credentials: *
+access-control-allow-methods: GET,POST,OPTIONS
+access-control-max-age: 86400s
+vary: Access-Control-Request-Headers,Access-Control-Request-Method,Origin
+X-Firefox-Spdy: h2
+ original-response-headers x-amz-id-2: lbr3Xt0FpvCCjDsrq9znlSabDgo107PkZVi8N+bCAvr01OtWPpPOv/JhjvvfPZeRvLZiZMjuN0I=
+x-amz-request-id: Z4WCWVKAP22Z3MVD
+last-modified: Tue, 29 Mar 2022 22:31:22 GMT
+etag: "2da68873f864aa95d48b85aed62353e6"
+accept-ranges: bytes
+content-type: image/svg+xml
+server: AmazonS3
+content-length: 11439
+date: Sun, 18 Aug 2024 22:26:06 GMT
+access-control-allow-origin: *
+access-control-allow-headers: *
+access-control-allow-credentials: *
+access-control-allow-methods: GET,POST,OPTIONS
+access-control-max-age: 86400s
+vary: Access-Control-Request-Headers,Access-Control-Request-Method,Origin
+X-Firefox-Spdy: h2
+ ctid 3 net-response-time-onstart 171 net-response-time-onstop 172   ,¯
