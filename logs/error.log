@@ -1,16 +1,16 @@
-2024-09-18 06:29:41 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3656), thread 'MainThread' (140133648857984): - {}
+2024-09-19 06:29:58 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3602), thread 'MainThread' (139933844941696): - {}
 Traceback (most recent call last):
   File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 162, in <module>
     asyncio.run(run())
-  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/runners.py", line 44, in run
+  File "/opt/hostedtoolcache/Python/3.10.15/x64/lib/python3.10/asyncio/runners.py", line 44, in run
     return loop.run_until_complete(main)
-  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+  File "/opt/hostedtoolcache/Python/3.10.15/x64/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
     self.run_forever()
-  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+  File "/opt/hostedtoolcache/Python/3.10.15/x64/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
     self._run_once()
-  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+  File "/opt/hostedtoolcache/Python/3.10.15/x64/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
     handle._run()
-  File "/opt/hostedtoolcache/Python/3.10.14/x64/lib/python3.10/asyncio/events.py", line 80, in _run
+  File "/opt/hostedtoolcache/Python/3.10.15/x64/lib/python3.10/asyncio/events.py", line 80, in _run
     self._context.run(self._callback, *self._args)
 > File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 158, in run
     await agent.stash()
